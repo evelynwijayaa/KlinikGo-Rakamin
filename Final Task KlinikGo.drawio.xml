@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-30T09:17:27.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0ZwgbP_yFS3Sl6O1sA14" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-12-30T09:19:23.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HQn20caQU8FC0-Fx5doc" version="22.1.16" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="flowchart">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,7 +437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QQZlLJt2-7Q6bgp5El_1" name="activity diagram">
-    <mxGraphModel dx="594" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="372" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -477,7 +477,7 @@
           <mxGeometry x="1202.86" y="117.5" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ESTxE6e6QMI-wUG4a-Rk-12" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1148.45" y="175" width="40" height="30" as="geometry" />
+          <mxGeometry x="1156.45" y="175" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ESTxE6e6QMI-wUG4a-Rk-13" value="Bagian sistem pendaftaran online" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1158.59" y="20" width="203.54" height="20" as="geometry" />
@@ -504,7 +504,7 @@
           <mxGeometry x="1220.3600000000001" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ESTxE6e6QMI-wUG4a-Rk-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1326.13" y="174" width="40" height="30" as="geometry" />
+          <mxGeometry x="1321.13" y="174" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ESTxE6e6QMI-wUG4a-Rk-22" value="Mengirim konfirmasi pendaftaran" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1202.8600000000001" y="255" width="115" height="30" as="geometry" />
@@ -649,7 +649,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ESTxE6e6QMI-wUG4a-Rk-53" value="Condition" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1988.0400000000002" y="873.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="1988.0400000000002" y="874.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ESTxE6e6QMI-wUG4a-Rk-54" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2066.0400000000004" y="866.03" width="40" height="30" as="geometry" />
@@ -718,11 +718,14 @@
         <mxCell id="ESTxE6e6QMI-wUG4a-Rk-68" value="" style="shape=line;strokeWidth=6;strokeColor=#ff0000;rotation=90;direction=west;" parent="1" vertex="1">
           <mxGeometry x="1114.72" y="432.82" width="53.46" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="ju1rgrS9doR4YJ1-rDhs-1" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="866.03" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="stouGCapel6MblGheAVd" name="sequence diagram">
-    <mxGraphModel dx="882" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -900,7 +903,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pcmgf1QAxKxIoDOK4r_E" name="(2)activity diagram">
-    <mxGraphModel dx="1764" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1170,13 +1173,13 @@
         <mxCell id="9Vmy5d48SNgACeY1PaW4-7" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="522.5" y="1215" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64afwBrjwmde2aa6rToB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="64afwBrjwmde2aa6rToB-1" target="9Vmy5d48SNgACeY1PaW4-1">
+        <mxCell id="64afwBrjwmde2aa6rToB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="64afwBrjwmde2aa6rToB-1" target="9Vmy5d48SNgACeY1PaW4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="64afwBrjwmde2aa6rToB-1" value="Konsultasi dengan dokter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="64afwBrjwmde2aa6rToB-1" value="Konsultasi dengan dokter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="368" y="1294" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64afwBrjwmde2aa6rToB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="64afwBrjwmde2aa6rToB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425.36" y="1260" as="sourcePoint" />
             <mxPoint x="425.36" y="1290" as="targetPoint" />
